@@ -1,3 +1,4 @@
+const showNumber(10);
 function showNumber(limit){
 
 for(i=o;i<= limit;i++){
